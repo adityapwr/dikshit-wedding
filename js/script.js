@@ -29,6 +29,7 @@ $(document).on('click', function(){
 var countDownDate = new Date("Dec 04, 2022 19:00:00").getTime();
 
 
+
 // Update the count down every 1 second
 var x = setInterval(function() {
 
